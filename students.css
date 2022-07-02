@@ -1,0 +1,9 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#navbar>a {
+    display: flex;
+    justify-content: space-between;
+}
